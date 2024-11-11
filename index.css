@@ -68,7 +68,7 @@ nav ul li a {
     font-size: 5rem;
     font-weight: bold;
     text-orientation: upright;
-    transform: rotate(270deg); /* Rotate for vertical alignment */
+    transform: rotate(270deg); 
     margin-bottom: 10px;
 }
 
